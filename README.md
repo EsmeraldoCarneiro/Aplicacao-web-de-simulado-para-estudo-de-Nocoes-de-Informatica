@@ -59,7 +59,7 @@ O banco de dados de questões está estruturado de forma a facilitar a manutenç
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/simulado-informatica-unicamp.git
+   git clone https://github.com/EsmeraldoCarneiro/Aplicacao-web-de-simulado-para-estudo-de-Nocoes-de-Informatica.git
    ```
 2. Instale as dependências:
    ```bash
